@@ -1,0 +1,27 @@
+key,zone,location,std_timestamp,easy_timestamp,weather,isdaytime,temp_value,temp_unit,feels_like,feels_like_unit,wind_speed,wind_unit,dew_point,dew_point_unit
+2601656,1,Altstadt-Lehel,2016-12-20 08:13:40.972,2016122008134072000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601654,2,Ludwigsvorstadt-Isarvorstadt,2016-12-20 08:13:41.345,2016122008134145000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601652,3,Maxvorstadt,2016-12-20 08:13:41.638,2016122008134138000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601655,4,Schwabing-West,2016-12-20 08:13:41.989,2016122008134189000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601657,5,Au-Haidhausen,2016-12-20 08:13:42.284,2016122008134284000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601650,6,Sendling,2016-12-20 08:13:42.602,2016122008134202000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601648,7,Sendling-Westpark,2016-12-20 08:13:42.929,2016122008134229000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601649,8,Schwanthalerhöhe,2016-12-20 08:13:43.272,2016122008134372000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601647,9,Neuhausen-Nymphenburg,2016-12-20 08:13:43.617,2016122008134317000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+167509,10,Moosach,2016-12-20 08:13:43.958,2016122008134358000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601651,11,Milbertshofen-Am Hart,2016-12-20 08:13:44.306,2016122008134406000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601658,12,Schwabing-Freimann,2016-12-20 08:13:44.777,2016122008134477000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+167470,13,Bogenhausen,2016-12-20 08:13:45.109,2016122008134509000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+167468,14,Berg am Laim,2016-12-20 08:13:45.388,2016122008134588000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601660,15,Trudering-Riem,2016-12-20 08:13:45.755,2016122008134555000,Light fog,true,-2.8,C,-9.3,C,18.5,km/h,27,F
+2601659,16,Ramersdorf - Perlach,2016-12-20 08:13:46.097,2016122008134697000,Light fog,true,-2.8,C,-9.3,C,18.5,km/h,27,F
+2601661,17,Obergiesing-Fasangarten,2016-12-20 08:13:46.435,2016122008134635000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601653,18,Untergiesing-Harlaching,2016-12-20 08:13:46.718,2016122008134618000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601645,19,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,2016-12-20 08:13:47.03,2016122008134730000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601644,20,Hadern,2016-12-20 08:13:47.369,2016122008134769000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601643,21,Pasing-Obermenzing,2016-12-20 08:13:47.666,2016122008134766000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601642,23,Allach-Untermenzing,2016-12-20 08:13:47.998,2016122008134798000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+2601646,24,Feldmoching-Hasenbergl,2016-12-20 08:13:48.339,2016122008134839000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+167496,25,Laim,2016-12-20 08:13:48.699,2016122008134899000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+167597,28,Garching bei München,2016-12-20 08:13:49.034,2016122008134934000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
+177684,29,Unterföhring,2016-12-20 08:13:49.394,2016122008134994000,Light fog,true,-2.2,C,-8,C,16.7,km/h,28,F
